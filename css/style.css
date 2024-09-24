@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.login-box{
+    border:#d9d9d9 2px solid ;
+    margin: auto;
+    width: 450px;
+    padding: 25px;
+    border-radius: 15px;
+    margin-top: 15%;
+}
+
+.login-box .title{
+    margin-bottom: 10px;
+}
+
+.login-box input{
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    width:400px;
+}
+
+.login-box button{
+    padding: 15px 25px;
+    margin:5px;
+    border-radius: 10px;
+    border: #d9d9d9;
+}
